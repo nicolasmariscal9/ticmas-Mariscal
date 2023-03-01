@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(65, 221, 221);
+    width: 720px;
+    border: 1px solid black;
+    padding: 5px ;
+    margin-top: 40px;
+    margin bottom: 20px;
+    
+
+}
+
+li {
+    background-color: rgb(49, 179, 179);
+    font-family: 'Golos Text', sans-serif;
+
+}
+h1{
+    color: rgb(170, 166, 173);
+    border: 5px ridge red;
+    background-color: rgb(32, 86, 110);
+    font-family: 'Gajraj One', cursive;
+}
+h2{
+    font-family: 'Tilt Prism', cursive;
+
+}
+.parrafo{
+    border: 1px solid black;
+}
+.habil{
+    background-color: rgb(46, 190, 190);
+    border: 3px solid red;
+}
+section {
+    color: blueviolet;
+    border: 5px ridge red;
+    background-color: rgb(61, 121, 126);
+    font-family: 'Gajraj One', cursive;
+}
